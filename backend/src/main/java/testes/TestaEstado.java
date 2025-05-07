@@ -68,7 +68,7 @@ public class TestaEstado {
 
     public static void main(String[] args) throws DaoException {
         //inserirEstado();
-        inserirCidadesNoEstado();
-//        listarCidadesEmUmEstado(1);
+        //inserirCidadesNoEstado();
+        listarCidadesEmUmEstado(1);
     }
 }
